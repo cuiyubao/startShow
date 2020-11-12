@@ -1,3 +1,4 @@
+# 爬取个人github点赞项目，写入到文件中，方便查看
 import requests
 from bs4 import BeautifulSoup
 import os
